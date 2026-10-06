@@ -1,0 +1,5 @@
+{"sheet":"assets","rows":[
+{"id":"map_c17_freight","type":"bsp","path":"hl2/custom/city17_freight/maps/c17_freight.bsp","original":true},
+{"id":"truck_model","type":"mdl","needs_authoring":true,"original":true,"note":"No ETS2 or Valve-copied meshes"},
+{"id":"vehicle_script","type":"txt","path":"scripts/vehicles/c17_flatbed.txt"}
+],"license":null,"credits":null,"remix_allowed":null}

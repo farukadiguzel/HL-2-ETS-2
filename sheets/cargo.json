@@ -1,0 +1,4 @@
+{"sheet":"cargo","rows":[
+{"id":"cargo_crates","model":"HL2 existing prop (verify path)","count":3,"attach":"cargo_a"},
+{"id":"cargo_barrels","model":"HL2 existing prop (verify path)","count":4,"attach":"cargo_a"}
+]}

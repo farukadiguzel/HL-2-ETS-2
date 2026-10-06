@@ -1,0 +1,3 @@
+{"sheet":"vehicles","rows":[
+{"id":"truck_flatbed","entity":"prop_vehicle_driveable","model":null,"vehiclescript":"scripts/vehicles/c17_flatbed.txt","sounds":"HL2 jeep/airboat engine sounds (verify names)","cargo_slot":"attachment point cargo_a","spawn":"depot_spawn","verified":false}
+]}

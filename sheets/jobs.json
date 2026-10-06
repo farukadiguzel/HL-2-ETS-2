@@ -1,0 +1,4 @@
+{"sheet":"jobs","rows":[
+{"id":"job_a","title":"Canal Supplies","route":"route_a","cargo":"cargo_crates","payout":null,"time_limit_s":null,"unlocked":true},
+{"id":"job_b","title":"Rail Yard Run","route":"route_b","cargo":"cargo_barrels","payout":null,"time_limit_s":null,"unlocked":true}
+]}

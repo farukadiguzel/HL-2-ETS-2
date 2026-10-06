@@ -1,0 +1,4 @@
+{"sheet":"routes","rows":[
+{"id":"route_a","start":"depot_pickup_a","checkpoints":["a_cp1","a_cp2"],"destination":"a_dropoff","length_m":null},
+{"id":"route_b","start":"depot_pickup_b","checkpoints":["b_cp1","b_cp2"],"destination":"b_dropoff","length_m":null}
+]}

@@ -1,0 +1,7 @@
+{"sheet":"hooks","note":"Hammer I/O only. No scripts, no loader.","rows":[
+{"id":"jobboard_use","entity":"func_button","job":"job_a|job_b","fires":"relay_start_job","verified":false},
+{"id":"relay_start_job","entity":"logic_relay","does":"enable route triggers, spawn cargo, show job text","verified":false},
+{"id":"cp_trigger","entity":"trigger_multiple","filter":"truck_flatbed","fires":"next checkpoint","verified":false},
+{"id":"dropoff_trigger","entity":"trigger_once","does":"add payout to money, show text, reset board","verified":false},
+{"id":"cargo_lost","entity":"trigger_hurt/out-of-bounds","does":"fail job (v1: simple fail text)","verified":false}
+]}
