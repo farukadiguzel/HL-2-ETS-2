@@ -16,3 +16,7 @@ payouts, time limits, route lengths, truck model, vehicle script, HUD position, 
 2. Confirm HL2 can launch straight into the map in one click (launch args); run one_click_check.
 3. Build, test in HL2, capture real screenshot, then list_my_mods/create_mod, upload, submit.
 Do not publish before the user tests and approves.
+
+## Truck (updated)
+Older European cab-over, white box body, one rigid model. No ETS2 assets.
+`python tools/make_truck.py --out build` writes truck_ref.smd, truck_phys.smd, truck.qc and two .vmt files (a starting mesh, not a finished vehicle: rig and test it, see comments in the QC).
